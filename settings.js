@@ -19,14 +19,14 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
+global.owner = ['94704227434']
+global.premium = ['94704227434']
+global.ownernomer = '94704227434'
+global.ownername = '〲ꜱʜᴀɴ⃜│⦁⃝〽️⃯⃖❤️ᷤ'
+global.botname = '〲ꜱʜᴀɴ⃜│⦁⃝〽️⃯⃖❤️ᷤ𝑩𝑶𝑻'
 global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
 global.ig = 'https://github.com/dominator454'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri lanka'
 global.sc = 'https://github.com/dominator454/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
 global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
